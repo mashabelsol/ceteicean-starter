@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Portraits Contemporains V</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Figaro</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Retrieved from Gallica</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+          <div>
+          <head type="portraits">Portraits Contemporains</head>
+          <head type="persName"> M. De Saint-Georges </head>
+           <p>Je ne sais quel auteur a dit que, pour écrire sur une beauté à la mode, 
+            il lui faudrait une plume de colibri, trempée dans de l'ambroisie.
+            Je me servirais volontiers de cette plume pour le portrait que je
+            vais tracer aujourd'hui.  Il ne s'agit pas de peu de chose,
+            en effet; nous nous adressons à la quintessence de l'élégance
+            et de la distinction, à un gentilhomme de la vieille roche,
+            lequel il n'est pas fait non plus. <persName> M. de Saint-Georges </persName>
+            a cent ans de trop sur la tête. Placez-le en 1758, et vous aurez un des plus charmants
+            courtisans de l'Œil-de-Bœuf 
+            <note> Le salon de l'Œil-de-bœuf est un salon de l'appartement du Roi dans le château de Versailles </note> 
+            un poète agréable des théâtres
+            de <persName> madame de Pompadour </persName> et de <persName> Sainte-Assise </persName>,
+            vous aurez un de ces hommes d'autrefois pour qui l'honneur était le premier
+            mobile, dont la parole était sûre et fidèle comme l'acier. Il y a dans
+            ce caractère mille nuances et des couleurs bien tranchées les nuances,
+            je ne sais pourquoi, frappent plus que les couleurs de ces nuances.
+            L'opinion déraisonnable et abusée a formé un kaléidoscope à son usage,
+            qui ne ressemble à rien et qui n'est bon qu'à faire un jouet.
+            Que n'a-t-on pas dit sur l'écrivain qui nous occupe? que n'a-t-on pas imaginé? 
+            Pour quelques traits vraisemblables, vrais peut-être, si vous voulez,
+            combien ne lui a-t-on pas prêté d'exagérations, et, tranchons le mot, de ridicules?
+            N'est pas ridicule qui veut à ce prix-là.
+            </p>
+            <p>
+            N'a pas qui veut des avantages
+            physiques qui résistent au temps et aux orages de la vie.
+            </p>
+            <p>
+            N'a pas qui veut un esprit assez heureux pour se faire jouer toute l'année sur nos premiers théâtres.
+            </p>
+            <p>
+            N'a pas qui veut des manières et une éducation de grand seigneur.
+            </p>
+
+
+
+
+           
+         </div>
+      </body>
+  </text>
+</TEI>
